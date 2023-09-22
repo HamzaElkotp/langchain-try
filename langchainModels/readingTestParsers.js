@@ -2,9 +2,9 @@
 // config();
 
 // import {z} from "zod"
-// import { OpenAI } from "langchain/llms/openai";
-// import { PromptTemplate } from "langchain/prompts";
-// import { StructuredOutputParser } from "langchain/output_parsers";
+import { OpenAI } from "langchain/llms/openai";
+import { PromptTemplate } from "langchain/prompts";
+import { StructuredOutputParser } from "langchain/output_parsers";
 
 // // With a `StructuredOutputParser` we can define a schema for the output.
 // const parser = StructuredOutputParser.fromNamesAndDescriptions({
