@@ -1,3 +1,3 @@
-import generate_reading_quiz from './langchainModels/readingTestParsers.js'
+import generate_reading_quiz from './readingTestParsers.js'
 
 // generate_reading_quiz('Marketing')
